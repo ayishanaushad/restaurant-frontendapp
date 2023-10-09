@@ -1,0 +1,28 @@
+
+
+
+
+                               Restaurant Listing App
+                             -----------------------------
+             1. create an application-npx create-react-app restaurant-listing-app
+             2. cd restaurant-listing-app
+             3. code .
+             4. Run Application - npm start
+             5. clear the unwanted codes
+             6. choose a theme using bootswatch.com site and import in index.js
+             7.  use fontawesome - copy cdnjs link to index.html  
+             8. copy and paste google fonts into index.css 
+             9. install react bootstrap            
+                -> npm install react-bootstrap bootstrap
+            10. component creation in src
+            => components
+               =>Header
+                 ->Header.jsx
+                 ->Header.css
+               =>Footer
+                 ->Footer.jsx
+                 ->Footer.css
+               =>Allrest
+                ->Allrest.jsx
+                ->Allrest.css    
+
